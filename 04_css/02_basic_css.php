@@ -22,7 +22,7 @@
 		#topic-cover {
 			width: 100%;
 			border: 8px solid #1d96cf;
-			border-radius: 10px;
+			border-radius: 10px; 
 		}
 
 		.font-maitree {
