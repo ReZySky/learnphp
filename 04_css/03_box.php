@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Box Model</title>
-	<Link rel="stylesheet" href="css/box.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <Link ref="stylesheet" href="css/box.css">
 </head>
 <body>
-	<div id="b1">Box1</div>
+  <div id="b1" class="box">Box1</div>
 </body>
 </html>
